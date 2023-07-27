@@ -19,7 +19,7 @@ function App() {
             <section className="subscription">
               <h2>Monthly Subscription</h2>
               <div className="price">
-                $<span className="monthly-price">29</span>{" "}
+                <span className="monthly-price">$29</span>{" "}
                 <span className="pm">per month</span>
               </div>{" "}
               <p>Full access for less than $1 a day</p>
